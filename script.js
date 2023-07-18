@@ -9,7 +9,7 @@ const generated = username + userSurname + favColor;
 
 const welcomeMessage = `
 <h2>Benvenuto ${generated}</h2>
-<P>${description}</p>;
-`
+<P>${description}</p>
+`;
 
 document.getElementById('display').innerHTML = welcomeMessage;
