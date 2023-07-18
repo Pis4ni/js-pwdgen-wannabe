@@ -1,0 +1,9 @@
+#main{
+    background: linear-gradient(#9ec0ff, #f2ffe2);
+    height: 100vh;
+}
+
+.styled{
+    color: #0059ff;
+    background-color: transparent;
+}
